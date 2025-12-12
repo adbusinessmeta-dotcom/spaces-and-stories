@@ -1,0 +1,5 @@
+{
+  "name": "Dome 3D Gallery",
+  "description": "An interactive 3D spherical image gallery with drag-to-rotate and click-to-expand functionality.",
+  "requestFramePermissions": []
+}
