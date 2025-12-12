@@ -1,2 +1,2 @@
-// Functionality moved to src/components/gallery/DomeGallery.tsx
+// This file is deprecated and can be deleted.
 export {};
